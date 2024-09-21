@@ -1,1 +1,1 @@
-#### thrift学习
+### thrift学习
